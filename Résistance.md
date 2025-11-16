@@ -40,7 +40,7 @@ Batterie 9V → LED → Cramée
 - Les 9V "poussent" trop de courant
 - Par conséquent, la LED grille
 
- ####+ Avec résistance
+ #### Avec résistance
  ```
  Batterie 9V → Résistance [470 Ohm] → LED
  ```
