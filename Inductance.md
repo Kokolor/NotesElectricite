@@ -69,3 +69,20 @@
 - Inductance : environ 2 Henry (2 H)
 - Freine beaucoup
 - Énorme étincelle
+
+## Pourquoi une surtension ?
+Quand le courant circule dans une bobine, la bobine stocke de l'énergie sous forme de champ magnétique :
+- Courant circule → crée un champ magnétique autour de la bobine
+- Ce champ magnétique contient de l'énergie (comme un ressort comprimé)
+Quand le courant est coupé brutalement :
+- Le champ magnétique ne peut **PAS** disparaître instantanément (loi de la physique)
+- L'énergie stockée dedans doit aller quelque part (elle ne peut pas juste "disparaître")
+
+Elle transforme l'énergie du champ magnétique en tension électrique pour essayer de continuer à faire passer du courant.
+C'est comme si la bobine disait : (IA ici aussi)
+- "J'ai de l'énergie stockée dans mon champ magnétique ! Je DOIS la libérer ! Je vais créer une grosse tension pour forcer le courant à continuer !"
+
+### Résultat :
+- Tension monte très haut (des milliers de volts parfois !)
+- Si elle trouve un chemin (l'air, un composant...) → **surtension*
+- L'énergie se dissipe dans l'étincelle (chaleur, lumière, son)
